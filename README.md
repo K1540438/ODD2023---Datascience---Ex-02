@@ -14,7 +14,7 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 (ii) Using IQR, detect height outliers and print them
 
 
-python--
+```python
 import pandas as pd
 import numpy as np
 df = pd.read_csv('/content/bhp.csv')
@@ -63,4 +63,4 @@ df1_new=df1[(df1.weight<lower_limit)&(df1.weight>upper_limit)]
 df1_new.boxplot()
 */
 
-python--
+```python
