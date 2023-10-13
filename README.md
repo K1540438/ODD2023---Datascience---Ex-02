@@ -14,7 +14,7 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 (ii) Using IQR, detect height outliers and print them
 
 
-pyhton--
+python--
 import pandas as pd
 import numpy as np
 df = pd.read_csv('/content/bhp.csv')
