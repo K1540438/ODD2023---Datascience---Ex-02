@@ -64,3 +64,8 @@ df1_new.boxplot()
 */
 
 ```python
+
+## OUTPUT
+
+![image](https://github.com/K1540438/ODD2023---Datascience---Ex-02/assets/84171243/b95101b7-6f52-44ca-a11f-c71a3791b55b)
+
