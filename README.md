@@ -66,6 +66,7 @@ df1_new.boxplot()
 ```python
 
 ## OUTPUT
+![227731877-d2981784-8d77-4e17-8b4c-8df5a8321b2a](https://github.com/K1540438/ODD2023---Datascience---Ex-02/assets/84171243/c3a2b990-62bf-475a-bfe1-237fb869dd74)
 
-![image](https://github.com/K1540438/ODD2023---Datascience---Ex-02/assets/84171243/b95101b7-6f52-44ca-a11f-c71a3791b55b)
+
 
