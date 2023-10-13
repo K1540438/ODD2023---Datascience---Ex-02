@@ -13,7 +13,7 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 
 (ii) Using IQR, detect height outliers and print them
 
-#CODE AND OUTPUT
+# CODE AND OUTPUT
 ```python
 import pandas as pd
 import numpy as np
