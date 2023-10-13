@@ -61,9 +61,7 @@ upper_limit=q3+1.5*IQR
 lower_limit,upper_limit
 df1_new=df1[(df1.weight<lower_limit)&(df1.weight>upper_limit)]
 df1_new.boxplot()
-*/
 
-```python
 
 ## OUTPUT
 
